@@ -1,7 +1,7 @@
 To run
 Install using npm install then run using npm start.
 
-<br/>
+<hr/>
 
 Features
 -Find existing recipes
