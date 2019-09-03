@@ -1,4 +1,6 @@
-To run
+# my-recipes
+
+### To run
 Install using npm install then run using npm start.
 
 <hr/>
