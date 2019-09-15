@@ -7,6 +7,12 @@ Run using npm start.
 
 <hr/>
 
+## Stack
+- MongoDB
+- Express
+- React
+- Node
+
 ## Features
 
 - Find existing recipes
